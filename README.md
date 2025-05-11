@@ -1,10 +1,10 @@
 # Full-Stack Developer
 
-##Programming Language
+## Programming Language
  - JavaScript / TypeScript
  - PHP
 
-##Frameworks and libraries
+## Frameworks and libraries
 - React
 - Node.JS (Typescrypt)
 - Tailwind Css
@@ -15,14 +15,14 @@
 - JavaScript
 - Bootstrap
 
-##Data Base
+## Data Base
 - MySQL
 - SQL Server
 
-##Others
+## Others
 - Git/Github (Version Control System)
 
-##Projects
+## Projects
 - In process
 
 <!---
