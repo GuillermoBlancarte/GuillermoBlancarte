@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @GuillermoBlancarte
-- 👀 I’m interested in WebDevelopment 
-- 🌱 I’m currently learning HTML5,CSS3 and JavaScript
-- 💞️ I’m looking to collaborate on Front-end projects
-- 📫 How to reach me guillermooblancarte@gmail.com
+# Full-Stack Developer
+
+##Programming Language
+ - JavaScript / TypeScript
+ - PHP
+
+##Frameworks and libraries
+- React
+- Node.JS (Typescrypt)
+- Tailwind Css
+
+## Frontend
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+
+##Data Base
+- MySQL
+- SQL Server
+
+##Others
+- Git/Github (Version Control System)
+
+##Projects
+- In process
 
 <!---
 GuillermoBlancarte/GuillermoBlancarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
